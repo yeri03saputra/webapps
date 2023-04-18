@@ -1,0 +1,15 @@
+{
+  "name": "contoh-aplikasi-web",
+  "version": "1.0.0",
+  "description": "Contoh aplikasi web sederhana",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
